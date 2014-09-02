@@ -5,6 +5,8 @@
 // Library headers
 #include "lgStack.h"
 #include "lgError.h"
-#include "lgtStack.h"
 
 using namespace std;
+
+void lgError(string message, string where);
+void lgWarning(string message, string where);
