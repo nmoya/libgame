@@ -2,7 +2,7 @@
 
 int main () {
 
-	cout << "File: lgstackf.cpp test" << endl;
+	cout << "File: lgStack test" << endl;
 
 	float i =0;
 
